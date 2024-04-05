@@ -1,8 +1,8 @@
 <h2>SPA Universe</h2>
 
 <div align="center">
-  <img width="600" src="src/images/print1.png"/>
-  <img width="600" src="src/images/print2.png"/>
+  <img width="600" src="./assets/print1.png"/>
+  <img width="600" src="./assets/print2.png"/>
 </div>
   
 <h2>Descrição</h2>
